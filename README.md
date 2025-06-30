@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/realesrgan_logo.png" height=120>
+  <img src="https://github.com/xinntao/Real-ESRGAN/raw/master/assets/realesrgan_logo.png" height=120>
 </p>
 
 ## <div align="center"><b><a href="README.md">English</a> | <a href="README_CN.md">简体中文</a></b></div>
